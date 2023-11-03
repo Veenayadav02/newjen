@@ -1,5 +1,5 @@
 class sam1 {
-public static void main(Strings[]args)
+public static void main(String[] args)
 {
 		System.out.println("hello");
 	}
